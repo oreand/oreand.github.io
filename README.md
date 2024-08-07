@@ -13,7 +13,7 @@ Data Analysis / Data Engineering / Data Science
 ![](/images/feature_importance.PNG)
 
 
-# [Project 2: Ball Image Classifier](https://github.com/oreand/data-analyst-portfolio/tree/main/Artists%20Portfolio%20Project) 
+# [Project 2: Last.fm Artists Data Exploration](https://github.com/oreand/data-analyst-portfolio/tree/main/Artists%20Portfolio%20Project) 
 * Developed an ETL pipeline using Python to call the Last.fm API for data on musical artists, using SQL to clean and enhance the structure of the data, facilitating seamless integration into Tableau for effective visualization.
 * Established and configured a local MySQL server to effectively facilitate the storage and administration of the acquired dataset.
 * Effectively converted the obtained data into a CSV file format and efficiently uploaded it to the local MySQL server, enabling streamlined data handling and subsequent querying via Visual Studio Code.
