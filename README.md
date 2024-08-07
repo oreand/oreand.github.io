@@ -13,9 +13,10 @@ Data Analysis / Data Engineering / Data Science
 ![](/images/feature_importance.PNG)
 
 
-# [Project 2: Ball Image Classifier](https://github.com/PlayingNumbers/ball_image_classifier) 
-For this example project I built a ball classifier to identify balls from different sports. This could be useful for someone who is new to sports from a certain country. They could take a picture of a ball and an app could serve them some information about the history and rules of the game. This is the underlying model for building something with those capabilities. 
-
-I was able to get the model to predict the sport of the ball with 94% accuracy after minimal tuning. For most of the cases this would meet the need of an end user of the app. To get these results I used transfer learning on a CNN trained on resnet34. This created time efficiencies and solid results. 
-
-![](/images/matrix_results.png)
+# [Project 2: Ball Image Classifier](https://github.com/oreand/data-analyst-portfolio/tree/main/Artists%20Portfolio%20Project) 
+* Developed an ETL pipeline using Python to call the Last.fm API for data on musical artists, using SQL to clean and enhance the structure of the data, facilitating seamless integration into Tableau for effective visualization.
+* Established and configured a local MySQL server to effectively facilitate the storage and administration of the acquired dataset.
+* Effectively converted the obtained data into a CSV file format and efficiently uploaded it to the local MySQL server, enabling streamlined data handling and subsequent querying via Visual Studio Code.
+* Applied strategic SQL queries to clean the dataset, encompassing operations such as the removal of duplicate rows, manipulation of data types within columns, and proficient string manipulations, thereby ensuring the optimization of data quality and integrity.
+* Formulated SQL queries to address inquiries concerning the dataset, utilizing an array of aggregate functions to derive insightful conclusions and actionable insights, consequently enriching the overall understanding of the dataset's characteristics and trends.
+[Artists Tableau Link](https://public.tableau.com/authoring/ArtistsPortfolio/ListenerandPlaycountRankings#1)
