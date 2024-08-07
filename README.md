@@ -10,7 +10,7 @@ Data Analysis / Data Engineering / Data Science
 * Enhanced the machine learning model using XGBoost, resulting in a 21% improvement in the F1 score.
 * Evaluated the XGBoost model by validating assumptions, generating a confusion matrix, and calculating performance metrics such as accuracy, precision, recall, and F1 scores.
 
-![](/images/positions_by_state.png)
+![](/images/feature_importance.PNG)
 
 
 # [Project 2: Ball Image Classifier](https://github.com/PlayingNumbers/ball_image_classifier) 
