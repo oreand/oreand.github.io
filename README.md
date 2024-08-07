@@ -19,4 +19,5 @@ Data Analysis / Data Engineering / Data Science
 * Effectively converted the obtained data into a CSV file format and efficiently uploaded it to the local MySQL server, enabling streamlined data handling and subsequent querying via Visual Studio Code.
 * Applied strategic SQL queries to clean the dataset, encompassing operations such as the removal of duplicate rows, manipulation of data types within columns, and proficient string manipulations, thereby ensuring the optimization of data quality and integrity.
 * Formulated SQL queries to address inquiries concerning the dataset, utilizing an array of aggregate functions to derive insightful conclusions and actionable insights, consequently enriching the overall understanding of the dataset's characteristics and trends.
+
 [Artists Tableau Link](https://public.tableau.com/authoring/ArtistsPortfolio/ListenerandPlaycountRankings#1)
