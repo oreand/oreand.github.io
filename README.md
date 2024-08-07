@@ -1,12 +1,14 @@
 # Oskar Andersson Portfolio
 Data Analysis / Data Engineering / Data Science
 
-# [Project 1: Data Science Salary Estimator](https://github.com/PlayingNumbers/ds_salary_proj) 
-* Created a tool that estimates data science salaries (MAE ~ $ 11K) to help data scientists negotiate their income when they get a job.
-* Scraped over 1000 job descriptions from glassdoor using python and selenium
-* Engineered features from the text of each job description to quantify the value companies put on python, excel, aws, and spark. 
-* Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to reach the best model. 
-* Built a client facing API using flask 
+# [Project 1: Waze User Churning Analysis](https://github.com/PlayingNumbers/ds_salary_proj) 
+* Conducted an in-depth analysis to identify key factors predicting user churn on the app, utilizing Python and various libraries within Jupyter notebooks.
+* Cleaned and prepared datasets by identifying and correcting errors, ensuring logical feature relationships, and confirming correct data types for columns.
+* Leveraged Pandas, Matplotlib, and Seaborn to aggregate and visually present data during the exploratory data analysis (EDA) stage, analyzing distributions, relationships, and descriptive statistics to provide insights into usage patterns.
+* Performed hypothesis testing to determine the statistical significance of device usage on app engagement.
+* Engineered new features and developed a Random Forest Classifier model to predict user churn, employing Grid Search to optimize model parameters.
+* Enhanced the machine learning model using XGBoost, resulting in a 21% improvement in the F1 score.
+* Evaluated the XGBoost model by validating assumptions, generating a confusion matrix, and calculating performance metrics such as accuracy, precision, recall, and F1 scores.
 
 ![](/images/positions_by_state.png)
 
