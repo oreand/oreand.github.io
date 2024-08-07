@@ -1,7 +1,7 @@
 # Oskar Andersson Portfolio
 Data Analysis / Data Engineering / Data Science
 
-# [Project 1: Waze User Churning Analysis](https://github.com/PlayingNumbers/ds_salary_proj) 
+# [Project 1: Waze User Churning Analysis](https://github.com/oreand/data-analyst-portfolio/tree/main/Waze%20Portfolio%20Project) 
 * Conducted an in-depth analysis to identify key factors predicting user churn on the app, utilizing Python and various libraries within Jupyter notebooks.
 * Cleaned and prepared datasets by identifying and correcting errors, ensuring logical feature relationships, and confirming correct data types for columns.
 * Leveraged Pandas, Matplotlib, and Seaborn to aggregate and visually present data during the exploratory data analysis (EDA) stage, analyzing distributions, relationships, and descriptive statistics to provide insights into usage patterns.
