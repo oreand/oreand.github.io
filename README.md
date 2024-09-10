@@ -12,7 +12,7 @@ Data Analysis / Data Engineering / Data Science
 
 ![](/images/feature_importance.PNG)
 
-# [Project 2: Last.fm Artists Data Exploration](https://github.com/oreand/data-analyst-portfolio/tree/main/Artists%20Portfolio%20Project) 
+# [Project 2: Football Statistics SQL Analysis](https://github.com/oreand/data-analyst-portfolio/tree/main/Artists%20Portfolio%20Project) 
 *	Conducted comprehensive analysis on over 2,000,000 data points from Europe's top football leagues, utilizing a locally hosted PostgreSQL server to efficiently store, organize, and query the large dataset.
 * Designed database schemas with optimized table structures, incorporating primary and foreign keys to enhance query performance by up to 20%, and developed strategic SQL queries to ensure data integrity post-loading.
 *	Crafted complex queries using aggregate functions, HAVING() and joins to identify top players by goal contributions.
