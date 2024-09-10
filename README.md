@@ -19,6 +19,7 @@ Data Analysis / Data Engineering / Data Science
 *	Developed advanced SQL queries to rank clubs by wins and overall win rate, using CASE statements and Common Table Expressions (CTEs) to analyze win rate variations between home and away games, providing insights across 60,000+ matches.
 *	Engineered SQL queries to examine player birthplaces, culminating in an in-depth analysis comparing goals scored by country of birth versus country of citizenship, leveraging CTEs to uncover insights on which countries produce and retain top offensive talent.
 
+![](/images/win_rate_difference.PNG)
 
 # [Project 2: Last.fm Artists Data Exploration](https://github.com/oreand/data-analyst-portfolio/tree/main/Artists%20Portfolio%20Project) 
 * Developed an ETL pipeline using Python to call the Last.fm API for data on musical artists, using SQL to clean and enhance the structure of the data, facilitating seamless integration into Tableau for effective visualization.
@@ -27,4 +28,4 @@ Data Analysis / Data Engineering / Data Science
 * Applied strategic SQL queries to clean the dataset, encompassing operations such as the removal of duplicate rows, manipulation of data types within columns, and proficient string manipulations, thereby ensuring the optimization of data quality and integrity.
 * Formulated SQL queries to address inquiries concerning the dataset, utilizing an array of aggregate functions to derive insightful conclusions and actionable insights, consequently enriching the overall understanding of the dataset's characteristics and trends.
 
-[Artists Tableau Link](https://public.tableau.com/authoring/ArtistsPortfolio/ListenerandPlaycountRankings#1)
+#[Artists Tableau Link](https://public.tableau.com/authoring/ArtistsPortfolio/ListenerandPlaycountRankings#1)
