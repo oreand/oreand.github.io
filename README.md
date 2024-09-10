@@ -12,6 +12,13 @@ Data Analysis / Data Engineering / Data Science
 
 ![](/images/feature_importance.PNG)
 
+# [Project 2: Last.fm Artists Data Exploration](https://github.com/oreand/data-analyst-portfolio/tree/main/Artists%20Portfolio%20Project](https://github.com/oreand/data-analyst-portfolio/tree/main/Football%20Portfolio%20Project) 
+*	Conducted comprehensive analysis on over 2,000,000 data points from Europe's top football leagues, utilizing a locally hosted PostgreSQL server to efficiently store, organize, and query the large dataset.
+* Designed database schemas with optimized table structures, incorporating primary and foreign keys to enhance query performance by up to 20%, and developed strategic SQL queries to ensure data integrity post-loading.
+*	Crafted complex queries using aggregate functions, HAVING() and joins to identify top players by goal contributions.
+*	Developed advanced SQL queries to rank clubs by wins and overall win rate, using CASE statements and Common Table Expressions (CTEs) to analyze win rate variations between home and away games, providing insights across 60,000+ matches.
+*	Engineered SQL queries to examine player birthplaces, culminating in an in-depth analysis comparing goals scored by country of birth versus country of citizenship, leveraging CTEs to uncover insights on which countries produce and retain top offensive talent.
+
 
 # [Project 2: Last.fm Artists Data Exploration](https://github.com/oreand/data-analyst-portfolio/tree/main/Artists%20Portfolio%20Project) 
 * Developed an ETL pipeline using Python to call the Last.fm API for data on musical artists, using SQL to clean and enhance the structure of the data, facilitating seamless integration into Tableau for effective visualization.
