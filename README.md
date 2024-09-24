@@ -1,5 +1,5 @@
-# Oskar Andersson Portfolio
-Data Analysis / Data Engineering / Data Science
+# Oskar Andersson's Data Science Portfolio
+Data Analysis / Data Science / Data Engineering
 
 # [Project 1: Waze User Churning Analysis](https://github.com/oreand/data-analyst-portfolio/tree/main/Waze%20Portfolio%20Project) 
 * Conducted an in-depth analysis to identify key factors predicting user churn on the app, utilizing Python and various libraries within Jupyter notebooks.
